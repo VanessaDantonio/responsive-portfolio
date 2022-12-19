@@ -1,0 +1,64 @@
+*,
+*:before,
+*:after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+table {
+    border-collapse:collapse;
+    border-spacing:0;
+}
+
+html {
+    height: 100%;
+}
+
+body {
+    min-height: 100%;
+}*/
+
+​h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-size: 100%;
+    font-weight: normal;
+}
+
+fieldset,img { 
+    border:0;
+}
+
+input{
+    border:1px solid #b0b0b0;
+    padding:3px 5px 4px;
+    color:#979797;
+    width:190px;
+}
+
+address,
+caption,
+cite,
+dfn,
+th,
+var {
+    font-style:normal;
+    font-weight:normal;
+}
+
+​ol,
+ul {
+    list-style: none;
+}
+
+caption,th {
+    text-align:left;
+}
+
+a {
+    text-decoration: none;
+}
